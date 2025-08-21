@@ -1,6 +1,14 @@
 # Secure-Coding-Task
 a simple web application API with user authentication and role-based access
 
+***** REQUIREMENTS****
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+SQLAlchemy==2.0.36
+pydantic==2.9.1
+python-jose==3.3.0
+bcrypt==4.2.0
+***********************
 
 # Secure Transactions API (FastAPI + SQLite + SQLAlchemy)
 
